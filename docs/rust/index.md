@@ -12,6 +12,7 @@ recommend: 1
 2. [What actually is a closure?](/rust/closure)
 3. [What exactly is a trait object?](/rust/trait-object)
 5. [Rust Benchmark](./rust-benchmark)
+6. [Rust List Problem Collections](./rust-list)
 
 ## References
 
