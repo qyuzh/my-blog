@@ -31,6 +31,9 @@ const blogTheme = getThemeConfig({
     repoId: 'R_kgDOK_D3NQ',
     category: 'Announcements',
     categoryId: 'DIC_kwDOK_D3Nc4Ccjmf',
+    loading: 'eager',
+    mapping: 'url',
+    lang: 'en'
   },
   // 页脚
   footer: {
