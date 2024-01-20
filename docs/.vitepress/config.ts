@@ -56,6 +56,10 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: 'Methodology',
+        link: '/methodology/'
+      },
       { text: 'Misc', link: '/misc/' },
     ],
     socialLinks: [
