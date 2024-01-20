@@ -25,7 +25,13 @@ const blogTheme = getThemeConfig({
   // 如果npx pagefind 时间过长，可以手动将其安装为项目依赖 pnpm add pagefind
   search: false,
   mermaid: false,
-
+  // giscus comment system
+  comment: {
+    repo: 'qyuzh/my-blog',
+    repoId: 'R_kgDOK_D3NQ',
+    category: 'Announcements',
+    categoryId: 'DIC_kwDOK_D3Nc4Ccjmf',
+  },
   // 页脚
   footer: {
     version: false,
@@ -39,13 +45,10 @@ const blogTheme = getThemeConfig({
       link: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030702005297',
     },
   },
-
   // 主题色修改
   themeColor: 'el-blue',
-
   // 文章默认作者
   author: 'qyuzh',
-
   friend: [
     {
       nickname: '粥里有勺糖',

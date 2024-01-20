@@ -6,6 +6,7 @@ tags:
   - Other
 sidebar: false
 hidden: true
+comment: false
 ---
 
 # About me
