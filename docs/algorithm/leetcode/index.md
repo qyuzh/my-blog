@@ -16,3 +16,4 @@ recommend: 1
 
 1. [P1250](/algorithm/leetcode/p1250)
 2. [P1223](/algorithm/leetcode/p1223)
+3. [p410](./p410)
