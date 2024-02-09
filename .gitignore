@@ -4,5 +4,6 @@ cache
 .temp
 .DS_Store
 releases
+*.zip
 docs/.vitepress/cache
 docs/.vitepress/dist

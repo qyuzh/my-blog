@@ -9,7 +9,8 @@
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs",
-    "deploy:pw-all": "powershell ./deploy/deploy-all.ps1"
+    "deploy:pw-all": "powershell ./deploy/deploy-all.ps1",
+    "deploy:sh-all": "bash ./deploy/deploy-linux.sh"
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.1.0",
@@ -23,7 +24,7 @@
   "devDependencies": {
     "sass": "^1.64.1",
     "typescript": "^5.1.6",
-    "vitepress": "1.0.0-rc.24",
+    "vitepress": "1.0.0-rc.42",
     "@iktakahiro/markdown-it-katex": "^4.0.1"
   }
 }
