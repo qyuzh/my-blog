@@ -8,5 +8,5 @@ recommend: 1
 
 ## Contents
 
-1. [Recommendation for Resource](./recommendation)
+1. [Recommendation for Resource](./resources)
 2. [Recommendation for Dev Tools](./tools)
