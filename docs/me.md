@@ -11,8 +11,4 @@ comment: false
 
 # About me
 
-My name is qyuzh, a programmer.
-
-I can write Rust, JavaScript, C++/C, Python and Java Code. I am also good at data structure and algorithms.
-
-Email: qyuzhang@139.com
+A programmer working with Rust, JavaScript, C/C++.
