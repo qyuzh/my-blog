@@ -11,4 +11,4 @@ comment: false
 
 # About me
 
-A programmer working with Rust, JavaScript, C/C++.
+A programmer working with Rust, JS/TS, C/C++.
