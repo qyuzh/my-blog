@@ -28,6 +28,21 @@
 		],
 		"description": "vitepress frontmatter"
 	},
+	"vitepress frontmatter l": {
+		"scope": "markdown",
+		"prefix": "lc",
+		"body": [
+			"---",
+			"tags:",
+			"  - Leetcode",
+			"  - Algorithm",
+			"---",
+			"",
+			"# $0",
+			"\n## Problem Abstraction\n\n## Conclusions\n\n## Code\n\n```rust\n```\n"
+		],
+		"description": "vitepress frontmatter"
+	},
 	"vitepress code group": {
 		"scope": "markdown",
 		"prefix": "vcg",
