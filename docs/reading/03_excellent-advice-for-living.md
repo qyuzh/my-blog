@@ -1,43 +1,54 @@
 ---
+sticky: 102
 tags:
   - Reading
 ---
 
 # Excellent Advice for Living
 
-Don't measure your life with someone else's rule.
+## Know Thyself
 
-Listening well is a superpower. While listening to someone you love keep asking them "Is there more?" until there is no more.
+Always demand a *deadline* because it weeds out the extraneous and the ordinary. A deadline prevents you from trying to make it perfect so you have to make it different. Different is better.
 
-Always demand a **deadline** because it weeds out the extraneous and the ordinary. A deadline prevents you from trying to make it perfect so you have to make it different. Different is better.
+*Taking a break* is not a sign of weakness but a sign of strength.
 
-Don't be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is to embarrassed to ask it.
+Don't be afraid to *ask a question* that may sound stupid because 99% of the time everyone else is thinking of the same question and is to embarrassed to ask it.
 
-Taking a break is not a sign of weakness but a sign of strength.
-
-Gratitude will unlock all other virtues and is something you can get better at.
-
-Treating a person to a meal never fails and is so easy to do. It's powerful with old friends and a great way to make friends.
+*Gratitude* will unlock all other virtues and is something you can get better at.
 
 Pain is inevitable. Suffering is optional.
 
-Movement plus variety equals health.
-
-A great way to understand yourself is to seriously reflect on everything you find irritating in others.
+*Movement* plus variety equals health.
 
 The advantage of a ridiculously ambitious goal is that it sets the bar very high so even if your effort falls short it may exceed an ordinary success.
 
-When you give away 10% of your income you lose 10% of your purchasing power which is minor compared to the 110% increase in happiness you will gain.
+A great way to understand yourself is to seriously reflect on everything you find irritating in others.
 
 The beat way to learn anything is to try to teach what you know.
 
 Whenever you have a choice between being right or being kind, be king. No exceptions. Don't confuse kindness with weakness.
 
-The best way to get to yes in a negotiation is to truly understand what yes means for the other party.
+The purpose of a *habit* is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth to flossing.
+
+Don't be the best. Be the only.
+
+Draw to discover what you see. Write to discover what you think.
 
 Recipe for greatness: Become just a teeny bit better than you were last year. Repeat every year.
 
-Draw to discover what you see. Write to discover what you think.
+Expand your mind by thinking with your feet on a walk or with your hand in a notebook. Think outside your brain.
+
+## Link to other people
+
+Don't measure your life with someone else's rule.
+
+Listening well is a superpower. While listening to someone you love keep asking them "Is there more?" until there is no more.
+
+Treating a person to a meal never fails and is so easy to do. It's powerful with old friends and a great way to make friends.
+
+When you give away 10% of your income you lose 10% of your purchasing power which is minor compared to the 110% increase in happiness you will gain.
+
+The best way to get to yes in a negotiation is to truly understand what yes means for the other party.
 
 Whenever you can't decide which path to take pick the one that produces change.
 
@@ -51,8 +62,26 @@ Rule of 3 in conversation: To get to the real reason, ask a person to go deeper 
 
 Pros make as many mistakes as amateurs; they've just learned how to gracefully recover from their mistakes.
 
-Don't be the best. Be the only.
-
 Everyone is shy. Other people are waiting for you to introduce yourself to them; they are waiting for you to send an email; they are waiting for you to ask them on a date. Go ahead.
 
-P25 - to be continued...
+The more you are interested in others the more interesting they'll find you. To be interesting, be interested.
+
+Don't take it personally when someone turns you down. Assume they are like you: busy, occupied, distracted. Try again later. It's amazing how often a second try works.
+
+Promptness is a sign of respect.
+
+When you are young, spend at least 6 months to 1 year living as cheaply as you can owning as little as you possibly can eating beans and rice in a tiny room or tent. That way any time you have to risk something in the future, you won't be afraid of the "worst-case" scenario.
+
+Trust me: There is no "them".
+
+Tend to the small things. More people are defeated by blisters than by mountains.
+
+You lead by letting others know what you expect of them which may exceed what they themselves expect. Provide them a reputation that they can step up to.
+
+If you ask for someone's feedback you'll get a critic. But if instead you ask for advice you'll get a partner.
+
+The Golden Rule will never fail you. It is the foundation of all other virtues.
+
+To make something good, just do it. To make something great, just redo it, redo it, redo it. The secret to making fine things is in remaking them.
+
+This is true: It's hard to cheat an honest person.
