@@ -38,6 +38,8 @@ Recipe for greatness: Become just a teeny bit better than you were last year. Re
 
 Expand your mind by thinking with your feet on a walk or with your hand in a notebook. Think outside your brain.
 
+If you are not falling down occasionally you are just coasting.
+
 ## Link to other people
 
 Don't measure your life with someone else's rule.
@@ -85,3 +87,25 @@ The Golden Rule will never fail you. It is the foundation of all other virtues.
 To make something good, just do it. To make something great, just redo it, redo it, redo it. The secret to making fine things is in remaking them.
 
 This is true: It's hard to cheat an honest person.
+
+"No" is an acceptable answer even without a reason.
+
+## Thinking
+
+Expand your mind by thinking with your feet on a walk or with your hand in a notebook. Think outside your brain.
+
+Nothing elevates a person higher than taking responsibility for their mistakes. If you mess up, fess up. It's astounding how powerful this ownership is.
+
+## Affair Management
+
+Shorten your to-do list by asking yourself "What is the worst that will happen if this does not get done?" Eliminate all but the disasters.
+
+## Others
+
+To move through a place you may not be permitted, act like you belong there.
+
+Hatred is a curse that does not affect the hated. It only poisons the hater. Release a grudge as if it were a poison.
+
+You can obsess about your customers or you can obsess about beating the competition. Both work, but of the two obsessing about your customers will take you further.
+
+Separate the processes of creating from improving. You can't write and edit or sculpt and polish or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don't select. While you sketch, don't inspect. While you write the first draft, don't reflect. At the start, the creator mind must be unleashed from judgment.

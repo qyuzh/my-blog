@@ -10,13 +10,14 @@ Rust groups errors into two major categories: recoverable and unrecoverable erro
 - Unrecoverable Errors with `panic!()` that ends the program immediately without cleaning up.
 - Recoverable Errors with `Result<T, E>` that gives the calling code the option to how to process the unexpected result.
 
-## Propagating results: `?` operator.
+## Propagating results: `?` operator
+
 - It will return `Err(From::from(e))` from the enclosing function or closure, if the value is `Err(e)`.
 - It will unwrap the value to evaluate to `x`, if applied to `Ok(x)`.
 
 ## When to use recoverable/unrecoverable errors?
 
-- It's ok call `unwrap`/`expect` in examples, prototyping and tests. 
+- It's ok call `unwrap`/`expect` in examples, prototyping and tests.
 - Should panic when code could end up in a bad state: some assumption, guarantee, contract, or invariant has been broken.
 
 ## `Error` trait
