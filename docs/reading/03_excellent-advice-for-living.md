@@ -109,3 +109,33 @@ Hatred is a curse that does not affect the hated. It only poisons the hater. Rel
 You can obsess about your customers or you can obsess about beating the competition. Both work, but of the two obsessing about your customers will take you further.
 
 Separate the processes of creating from improving. You can't write and edit or sculpt and polish or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don't select. While you sketch, don't inspect. While you write the first draft, don't reflect. At the start, the creator mind must be unleashed from judgment.
+
+人本质上只有经历, 没有年纪! 年纪只是一个虚无的时间概念, 没有任何价值. 人生的本质意义在于经历, 体验, 试错, 而这些来自与认知, 野心, 勇气和执行力. 认知解决知不知道的问题, 野心解决想不想要的问题, 勇气解决敢不敢的问题, 执行力解决做不做的问题, 并且这四者互为来源, 互相支持.
+
+像个学生一样模仿你想要超越的人
+
+一天少做点事情, 一年多做点事情. 即每天把事情想细, 做细; 持之以恒的做.
+
+任何思想, 观点, 问题都有它的context, 找出它的context
+
+## 每个领域列几天真言, 然后去实践
+
+提升思维能力, 培养开朗性格, 精进身体素质
+
+### 沟通表达
+
+1. 简洁准确
+2. "我讲完了, 大家有什么问题或者建议"
+3. 能听的时候不要说, 该说的时候不要怵
+
+### 性格
+
+1. 乐观, 思考事物积极的一面
+2. 格局, 不要太在意一时一地的得失
+
+### 思考
+
+1. 目标/问题是什么?
+2.
+
+### 面试
