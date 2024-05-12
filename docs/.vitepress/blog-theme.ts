@@ -1,5 +1,5 @@
 // 主题独有配置
-import { getThemeConfig } from '@sugarat/theme/node';
+import { getThemeConfig } from "@sugarat/theme/node";
 
 // 开启RSS支持（RSS配置）
 // import type { Theme } from '@sugarat/theme'
@@ -27,47 +27,56 @@ const blogTheme = getThemeConfig({
   mermaid: false,
   // giscus comment system
   comment: {
-    repo: 'qyuzh/my-blog',
-    repoId: 'R_kgDOK_D3NQ',
-    category: 'Announcements',
-    categoryId: 'DIC_kwDOK_D3Nc4Ccjmf',
-    loading: 'eager',
-    mapping: 'url',
-    lang: 'en'
+    repo: "qyuzh/my-blog",
+    repoId: "R_kgDOK_D3NQ",
+    category: "Announcements",
+    categoryId: "DIC_kwDOK_D3Nc4Ccjmf",
+    loading: "eager",
+    mapping: "url",
+    lang: "en",
   },
   // 页脚
   footer: {
     version: false,
-    copyright: '2022-present | qyuzh',
+    copyright: "2022-present | qyuzh",
     icpRecord: {
-      name: '渝ICP备2023000878号',
-      link: 'https://beian.miit.gov.cn/#/Integrated/index',
+      name: "渝ICP备2023000878号",
+      link: "https://beian.miit.gov.cn/#/Integrated/index",
     },
     securityRecord: {
-      name: '粤公网安备 44030702005297号',
-      link: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030702005297',
+      name: "粤公网安备 44030702005297号",
+      link: "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030702005297",
     },
   },
   // 主题色修改
-  themeColor: 'el-blue',
+  themeColor: "el-blue",
   // 文章默认作者
-  author: 'qyuzh',
+  author: "qyuzh",
   friend: [
     {
-      nickname: '粥里有勺糖',
-      des: '你的指尖用于改变世界的力量',
+      nickname: "粥里有勺糖",
+      des: "你的指尖用于改变世界的力量",
       avatar:
-        'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
-      url: 'https://sugarat.top',
+        "https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030",
+      url: "https://sugarat.top",
     },
     {
-      nickname: '阮一峰',
-      des: '阮一峰的网络日志',
+      nickname: "阮一峰",
+      des: "阮一峰的网络日志",
       avatar: {
-        alt: '的网络日志',
-        src: 'https://www.ruanyifeng.com/blog/images/person2_s.jpg',
+        alt: "阮一峰的网络日志",
+        src: "https://www.ruanyifeng.com/blog/images/person2_s.jpg",
       },
-      url: 'https://www.ruanyifeng.com/blog/archives.html',
+      url: "https://www.ruanyifeng.com/blog/archives.html",
+    },
+    {
+      nickname: "Hacker News Assemble",
+      des: "Hacker News Everyday",
+      avatar: {
+        alt: "Hacker News Assemble",
+        src: "https://www.supertechfans.com/logo.jpg",
+      },
+      url: "https://www.supertechfans.com/cn/",
     },
   ],
 });
