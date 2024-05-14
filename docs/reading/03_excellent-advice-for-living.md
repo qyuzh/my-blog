@@ -136,6 +136,10 @@ Separate the processes of creating from improving. You can't write and edit or s
 ### 思考
 
 1. 目标/问题是什么?
-2.
+
+### 数学/阅读
+
+1. 观察别人的论证逻辑, 每个细节都要弄清楚
+2. 弄清关键点, 总结从原题到关键点的特征
 
 ### 面试
