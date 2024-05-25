@@ -22,6 +22,7 @@ tags:
 ## Books
 
 1. [CSAPP](https://github.com/iWangMu/Book-CSAPP)
+2. [项目管理精华](https://max.book118.com/html/2023/0906/8022041013005130.shtm)
 
 ## Tech
 
