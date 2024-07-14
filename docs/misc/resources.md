@@ -8,6 +8,8 @@ tags:
 
 # Resources
 
+1. [math lessons - 3blue1brown](https://www.3blue1brown.com/#lessons)
+
 ## Videos
 
 ### TED Talks
