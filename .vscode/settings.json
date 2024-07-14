@@ -2,7 +2,5 @@
   "markdown.copyFiles.destination": {
     "**/*": "assets/${documentBaseName}.${fileExtName}"
   },
-  "cSpell.words": [
-    "Leetcode"
-  ]
+  "cSpell.words": ["CRDTs", "CUDA", "Leetcode", "Vulkan"]
 }
