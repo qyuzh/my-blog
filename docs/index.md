@@ -5,10 +5,8 @@ blog:
   name: qyuzh
   motto: 收拾心情, 重新出发
   inspiring:
-    - 平静内心, 做好事情, 提升自己
-    - 不悲不喜, 总结规律, 感受规律
+    - know thyself, know the world
     - enjoy thinking, reading, exercising
-    - know thyself
     - 谢谢!
     - sorry!
   inspiringTimeout: 5000
