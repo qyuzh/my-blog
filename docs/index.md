@@ -5,10 +5,10 @@ blog:
   name: qyuzh
   motto: 收拾心情, 重新出发
   inspiring:
-    - know thyself, know the world
-    - enjoy thinking, reading, exercising
-    - 谢谢!
-    - sorry!
+    - Know thyself, know the world
+    - Discipline is happiness
+    - Naming reflects cognition
+    - Sorry, thanks
   inspiringTimeout: 5000
   pageSize: 10
   minScreenAvatar: false
