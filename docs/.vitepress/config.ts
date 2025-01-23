@@ -1,8 +1,8 @@
-import { defineConfig } from "vitepress";
-import katex from "@iktakahiro/markdown-it-katex";
+import { defineConfig } from "vitepress"
+import katex from "@iktakahiro/markdown-it-katex"
 
 // 导入主题的配置
-import { blogTheme } from "./blog-theme";
+import { blogTheme } from "./blog-theme"
 
 // Vitepress 默认配置
 // 详见文档：https://vitepress.dev/reference/site-config
@@ -17,7 +17,7 @@ export default defineConfig({
   markdown: {
     lineNumbers: true,
     config: (md) => {
-      md.use(katex);
+      md.use(katex)
     },
   },
   head: [
@@ -25,9 +25,7 @@ export default defineConfig({
       "link",
       {
         rel: "stylesheet",
-        href: "https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css",
-        integrity:
-          "sha384-vKruj+a13U8yHIkAyGgK1J3ArTLzrFGBbBc0tDp4ad/EyewESeXE/Iv67Aj8gKZ0",
+        href: "/assets/katex_0.16.4.min.css",
         crossorigin: "anonymous",
       },
     ],
@@ -73,4 +71,4 @@ export default defineConfig({
       },
     ],
   },
-});
+})
