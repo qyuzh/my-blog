@@ -54,7 +54,16 @@ export default defineConfig({
           },
         ],
       },
-      { text: "Math", link: "/math/" },
+      {
+        text: "Math",
+        items: [
+          {
+            text: "Index",
+            link: "/math/",
+          },
+          { text: "Theorems", link: "/math/theorems/" },
+        ],
+      },
       {
         text: "Methodology",
         link: "/methodology/",
